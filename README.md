@@ -2,7 +2,7 @@
 
 A simple command-line task manager to keep track of your to-dos! This tool allows you to add, remove, sort, and update the status of tasks directly from your terminal. 🚀
 
-*(Yes, I know "Tasker" is the correct spelling, but I made a mistake on purpose — because creativity matters!)* 😎
+*(Yes, I know "Tasker" is the correct spelling, but I made a mistake on purpose — because creativity matters!)* 
 
 ## 📌 Features
 
