@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+src/takser/__init__.py
+src/takser/main.py
+src/takser.egg-info/PKG-INFO
+src/takser.egg-info/SOURCES.txt
+src/takser.egg-info/dependency_links.txt
+src/takser.egg-info/entry_points.txt
+src/takser.egg-info/top_level.txt

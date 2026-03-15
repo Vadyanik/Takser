@@ -1,0 +1,2 @@
+[console_scripts]
+takser = takser.main:main

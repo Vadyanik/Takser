@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "takser"
+version = "0.1.0"
+description = "Simple CLI task manager"
+readme = "README.md"
+requires-python = ">=3.8"
+authors = [
+    {name = "vadyanik"}
+]
+dependencies = []
+
+[project.scripts]
+takser = "takser.main:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
