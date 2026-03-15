@@ -20,8 +20,7 @@ Clone the repository and navigate to the project directory:
 ```sh
 $ git clone https://github.com/VolDenMaks1/Takser.git
 $ cd Takser
-$ chmod +x install.sh 
-$ sudo ./install.sh
+$ pipx install .
 ```
 
 ## 🚀 Usage
